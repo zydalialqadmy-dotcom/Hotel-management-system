@@ -1,0 +1,4 @@
+2026-09-15 02:01:43 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Available Room: 102 | Type: Single | Price: 100 | Status: Available
+2026-09-15 02:02:34 | Book Room 101 | Error: Phone must be 9 digits
+2026-09-15 02:03:07 | Book Room 101 | Success: Room 101 booked for vbnm (sdfgh@gmail.com)
+2026-09-15 02:03:17 | Pre-check Room 101 | Alert: Room already booked

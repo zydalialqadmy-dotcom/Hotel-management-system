@@ -1,0 +1,72 @@
+2026-09-14 00:26:48 | Check System Processes |  Image Name                     PID Session Name        Session#    Mem Usage ========================= ======== ================ =========== ============ System Idle Process              0 Services                   0          8 K System                           4 Services                   0      2,152 K
+2026-09-14 00:27:02 | Exit | Program closed
+2026-09-14 00:27:11 | Check System Processes | Access Denied: Admin only.
+2026-09-14 00:27:22 | Exit | Program closed
+2026-09-14 00:42:51 | Book Room 101 | Access Denied: You cannot book rooms.
+2026-09-14 00:43:34 | Book Room 202 | Access Denied: You cannot book rooms.
+2026-09-14 00:44:43 | Book Room 302 | Access Denied: You cannot book rooms.
+2026-09-14 00:49:22 | Book Room 303 | Access Denied: You cannot book rooms.
+2026-09-14 00:51:10 | Exit | Program closed
+2026-09-14 00:51:38 | Book Room 101 | Error: Phone must be 10 digits
+2026-09-14 00:52:04 | Book Room 101 | Success: Room 101 booked for scavdz@asvd.asc
+2026-09-14 00:56:59 | Exit | Program closed
+2026-09-14 00:57:10 | Generate Report | Total Guests: 5 | Total Revenue: 6400
+2026-09-14 00:57:51 | Book Room 101 | Error: Room is already booked
+2026-09-14 00:59:04 | Check System Processes |  Image Name                     PID Session Name        Session#    Mem Usage ========================= ======== ================ =========== ============ System Idle Process              0 Services                   0          8 K System                           4 Services                   0      2,244 K
+2026-09-14 01:00:47 | Exit | Program closed
+2026-09-14 01:04:37 | Search Room 1 | Room not found
+2026-09-14 01:04:50 | Exit | Program closed
+2026-09-14 01:04:57 | View All Rooms | Invalid command
+2026-09-14 01:05:26 | View All Rooms | Invalid command
+2026-09-14 01:05:30 | Exit | Program closed
+2026-09-14 01:05:37 | View All Rooms | Invalid command
+2026-09-14 01:06:53 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Available Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-14 01:11:44 | Exit | Program closed
+2026-09-14 01:11:51 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Available Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-14 01:11:54 | Exit | Program closed
+2026-09-14 20:06:44 | Check System Processes | Access Denied: Admin only.
+2026-09-14 20:06:56 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Available Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-14 21:28:48 | Search Room 102 | Room: 102 | Type: Single | Price: 100 | Status: Available
+2026-09-14 21:29:03 | Search Room 3000 | Room not found
+2026-09-14 21:29:17 | Search Room 101 | Room: 101 | Type: Single | Price: 100 | Status: Booked
+2026-09-14 21:29:32 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Available Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-14 21:30:56 | Book Room 101 | Error: Room is already booked
+2026-09-14 21:31:50 | Book Room 102 | Success: Room 102 booked for ZAID (JNMMIJN@HJBNO.UGFGI)
+2026-09-14 21:34:08 | Generate Report | Total Guests: 5 | Total Revenue: 6400
+2026-09-14 21:34:24 | Check System Processes |  Image Name                     PID Session Name        Session#    Mem Usage ========================= ======== ================ =========== ============ System Idle Process              0 Services                   0          8 K System                           4 Services                   0      1,908 K
+2026-09-14 21:34:31 | Exit | Program closed
+2026-09-14 21:34:52 | Generate Report | Access Denied: Admin only.
+2026-09-15 00:35:11 | Book Room 6 | Access Denied: You cannot book rooms.
+2026-09-15 00:38:34 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Booked Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 00:38:59 | Book Room 101 | Error: Phone must be 10 digits
+2026-09-15 00:41:56 | Book Room 101 | Alert: This room is already booked! Please choose another room.
+2026-09-15 00:45:59 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Booked Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 00:47:06 | Book Room 201 | Success: Room 201 booked for ahmed  (sdvv@sdfv.vdf)
+2026-09-15 00:51:09 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Booked Room: 201 | Type: Double | Price: 150 | Status: Booked Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 00:55:01 | Checkout Room 101 | Success: Room 101 is now Available.
+2026-09-15 00:59:43 | Search Room 101 | Room: 101 | Type: Single | Price: 100 | Status: Available
+2026-09-15 01:00:26 | Book Room 101 | Success: Room 101 booked for ahmed (ahmed1@acaf.afaf)
+2026-09-15 01:04:07 | Pre-check Room 101 | Alert: Room already booked
+2026-09-15 01:05:32 | Exit | Program closed
+2026-09-15 01:07:38 | Pre-check Room 101 | Alert: Room already booked
+2026-09-15 01:07:53 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Booked Room: 201 | Type: Double | Price: 150 | Status: Booked Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 01:08:58 | Book Room 301 | Access Denied: You cannot book rooms.
+2026-09-15 01:18:14 | Pre-check Room 101 | Alert: Room already booked
+2026-09-15 01:18:18 | Checkout Room 101 | Access Denied: You cannot checkout rooms.
+2026-09-15 01:18:24 | Exit | Program closed
+2026-09-15 01:27:30 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Booked Room: 201 | Type: Double | Price: 150 | Status: Booked Room: 202 | Type: Double | Price: 150 | Status: Booked Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 01:27:42 | Checkout Room 101 | Success: Room 101 is now Available.
+2026-09-15 01:27:49 | Checkout Room 102 | Success: Room 102 is now Available.
+2026-09-15 01:27:56 | Checkout Room 201 | Success: Room 201 is now Available.
+2026-09-15 01:28:03 | Checkout Room 300 | Error: Room not found
+2026-09-15 01:28:08 | Checkout Room 202 | Success: Room 202 is now Available.
+2026-09-15 01:28:13 | Checkout Room 101 | Alert: This room is already available.
+2026-09-15 01:29:19 | Book Room 101 | Success: Room 101 booked for suliman (sul12@dsf.dgs)
+2026-09-15 01:29:38 | Pre-check Room 101 | Alert: Room already booked
+2026-09-15 01:35:06 | Exit | Program closed
+2026-09-15 01:35:49 | View All Rooms | Room: 101 | Type: Single | Price: 100 | Status: Booked Room: 102 | Type: Single | Price: 100 | Status: Available Room: 201 | Type: Double | Price: 150 | Status: Available Room: 202 | Type: Double | Price: 150 | Status: Available Room: 301 | Type: Suite | Price: 300 | Status: Available Room: 302 | Type: Suite | Price: 300 | Status: Available
+2026-09-15 01:35:58 | Search Room 101 | Room: 101 | Type: Single | Price: 100 | Status: Booked
+2026-09-15 01:36:05 | Check System Processes |  Image Name                     PID Session Name        Session#    Mem Usage ========================= ======== ================ =========== ============ System Idle Process              0 Services                   0          8 K System                           4 Services                   0      1,556 K
+2026-09-15 01:36:14 | Generate Report | Total Guests: 5 | Total Revenue: 6400
+2026-09-15 01:36:36 | Exit | Program closed
+2026-09-15 01:36:49 | Pre-check Room 101 | Alert: Room already booked
